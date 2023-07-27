@@ -7,6 +7,7 @@
 </head>
 <body>
     <p>Привет мир</p>
+    <a href="https://worldofwarcraft.blizzard.com/ru-ru/">Первичный тэг a</a>
     
 </body>
 </html>
