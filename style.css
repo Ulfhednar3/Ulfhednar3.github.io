@@ -3,7 +3,7 @@ body{
     margin: 0px;
 }
 img{
-    width: 200px;
+    width: 250px;
     height:200px;
 }
 
@@ -15,10 +15,25 @@ img{
     display: block;
     width: 70%;
     margin-left: 15%;
-    margin-right: 15%;
+    float: left;
+}
+
+.barSpider{
+    display: block;
+    width: 35%;
+    margin-left: 15%;
+    float: left;
+}
+.pictureSpider{
+    display: block;
+    width: 35%;
+    float: left;
 }
 .m7{
-    
+    margin-left: 350px;
+}
+.r3{
+    padding: 75px 0px 0px 50px;
 }
 .menu{
     border-radius: 25px;
