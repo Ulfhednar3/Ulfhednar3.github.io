@@ -17,15 +17,6 @@ footer{
     display: flex;
     justify-content: center;
 }
-.r1{
-    /*margin: 75px 0px 0px 50px;*/
-    margin-top: 50px;
-    margin-left: 5px;
-    border-radius: 50%;
-    box-shadow: 0px 0px 40px red;
-    width: 70%;
-    height: auto;
-}
 .barBear{
     display: block;
     width: 35%;
@@ -98,6 +89,11 @@ footer{
 }
 .m7{
     margin-left: 350px;
+}
+.r1{
+    border: 0rem solid;
+    border-radius: 500%;
+    box-shadow: 0px 0px 40px red;
 }
 .r3{
     margin: 75px 0px 0px 50px;
