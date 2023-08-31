@@ -12,6 +12,7 @@ footer{
     width: 70%;
     margin-left: 15%;
     float: left;
+    color: #ff0101;
 }
 .bar{
     display: flex;
